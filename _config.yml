@@ -18,20 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Seismic Cycle Racing Blog
-email: goride42@gmail.com
+title: SeismicCycleRacing Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  An infrequently updated race blog for the Seismic Cycle Racing early-mid-life
-  crisis race team.
+  A blog for the SeismicCycleRacing team.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://seismiccycleracing.com" # the base hostname & protocol for your site, e.g. http://example.com
+domain: seismiccycleracing.com
 github_username:  calum-chamberlain
 
 # Build settings
-#theme: jekyll-theme-tactile
-remote-theme: pages-theme/cayman@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.

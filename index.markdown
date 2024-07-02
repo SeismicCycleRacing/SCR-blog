@@ -4,7 +4,3 @@
 
 layout: home
 ---
-
-# Seismic Cycle Racing Blog
-
-Some content?
