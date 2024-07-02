@@ -29,8 +29,9 @@ github_username:  calum-chamberlain
 
 # Build settings
 #theme: jekyll-theme-tactile
-remote-theme: Jekyll-Modern-Blog
+remote-theme: Open-SL/Jekyll-Modern-Blog
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
