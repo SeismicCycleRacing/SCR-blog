@@ -22,8 +22,9 @@ title: SeismicCycleRacing Blog
 description: >- # this means to ignore newlines until "baseurl:"
   A blog for the SeismicCycleRacing team.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://seismiccycleracing.com" # the base hostname & protocol for your site, e.g. http://example.com
-domain: seismiccycleracing.com
+# url: "http://seismiccycleracing.com/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: httsp://SCR-blog.github.io
+# domain: seismiccycleracing.com
 github_username:  calum-chamberlain
 
 # Build settings
