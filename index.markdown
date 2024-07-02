@@ -3,4 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+banner: "/assets/images/banners/home.jpg"
+heading: Seismic Cycle Racing Blog
+subheading: Some words about some racing
 ---
