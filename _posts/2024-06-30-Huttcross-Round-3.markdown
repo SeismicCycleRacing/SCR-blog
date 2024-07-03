@@ -85,3 +85,6 @@ This was a good fun race and a nice confidence boost that the training is doing 
 I'm looking forward to now starting some 'cross specific work for the next two blocks before
 national champs, and then racing in the UK, where I look forward to getting my head kicked in
 by some really good riders!
+
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11771435585" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
