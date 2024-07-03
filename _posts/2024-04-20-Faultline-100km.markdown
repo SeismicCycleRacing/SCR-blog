@@ -1,0 +1,22 @@
+---
+layout: post
+title: Faultline 100
+subtitle: A long morning out in the Wellington hills
+categories: Racing
+tags: [racing,MTB,XC]
+author: Calum Chamberlain
+top: 1
+sidebar: []
+banner:
+  image: assets/images/posts/faultline_2024/240420_Faultline_Ultra_Favorites-2.jpg
+  #heading_style: "color: purple"
+  #subheading_style: "color: purple"
+  background: "#000"
+  height: "80vh"
+  min_height: "60vh"
+  opacity: 0.6
+---
+
+
+I had been looking forward to this event for a while - the abundance of trails around
+Wellington make it a great place to do long rides linking together suburbs.
