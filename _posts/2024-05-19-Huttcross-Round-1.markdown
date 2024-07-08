@@ -27,7 +27,7 @@ the bank. This year it was dry enough to include the wooden steps. More wiggling
 around to an off-camber section near the sea-scout hall and some more enforced running.
 
 <figure>
-  <img src="{{site.url}}/assets/images/posts/huttcross_1_2024/240519-124943.jpg" alt="Up the bank"/>
+  <img src="../../../../assets/images/posts/huttcross_1_2024/240519-124943.jpg" alt="Up the bank"/>
   <center><figcaption>Photo: Working Technology Photos (Don Johnson).</figcaption></center>
 </figure>
 
@@ -62,7 +62,7 @@ field. When I realised that I was ahead of him, and staying ahead on lap 3 I was
 confident that I could keep on doing what I was doing.
 
 <figure>
-  <img src="{{site.url}}/assets/images/posts/huttcross_1_2024/240519-123527.jpg" alt="Rolling along the gravel"/>                          
+  <img src="../../../../assets/images/posts/huttcross_1_2024/240519-123527.jpg" alt="Rolling along the gravel"/>                          
   <center><figcaption>Photo: Working Technology Photos (Don Johnson).</figcaption></center>                   
 </figure>
 

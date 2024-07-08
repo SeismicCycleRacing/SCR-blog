@@ -41,7 +41,7 @@ Because of that I started fairly hard and got a small gap up the first climb. I 
 in and not go too hard up the single track, and then was able to just enjoyed myself on the descent.
 
 <figure>
-  <img src="{{site.url}}/assets/images/posts/faultline_2024/startline.png" alt="Startline"/>
+  <img src="../../../../assets/images/posts/faultline_2024/startline.png" alt="Startline"/>
   <center><figcaption>Photo: Faultline Ultra Team.</figcaption></center>
 </figure>
 
@@ -72,7 +72,7 @@ she did a great job of helping me get rid of my light and don my vest. Getting a
 was definitely a highlight of the day!
 
 <figure>
-    <img src="{{site.url}}/assets/images/posts/faultline_2024/kiss.png" alt="Emily"/>
+    <img src="../../../../assets/images/posts/faultline_2024/kiss.png" alt="Emily"/>
     <center><figcaption>Photo: Faultline Ultra Team.</figcaption></center>
 </figure>
 
@@ -88,7 +88,7 @@ not get carried away and just keep it consistent. Part of the point of this race
 just get a good long aerobic ride in, so I didn't feel the need to put in any attacks.
 
 <figure>                                                                                    
-    <img src="{{site.url}}/assets/images/posts/faultline_2024/depart.png" alt="Getting going again"/>
+    <img src="../../../../assets/images/posts/faultline_2024/depart.png" alt="Getting going again"/>
     <center><figcaption>Photo: Faultline Ultra Team.</figcaption></center>                  
 </figure> 
 

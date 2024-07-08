@@ -44,7 +44,7 @@ turns. I counted more than 20 180 degree turns on the 5 minute lap which really
 limited the speed.
 
 <figure>
-    <img src="{{site.url}}/assets/images/posts/huttcross_3_2024/Twisty_Totara_Jeff_Mein_Smith.jpg"/>
+    <img src="../../../../assets/images/posts/huttcross_3_2024/Twisty_Totara_Jeff_Mein_Smith.jpg"/>
     <center><figcaption>Photo: Jeff Mein Smith</figcaption></center>
 </figure>
 
@@ -67,7 +67,7 @@ of them. Into the first corner, Jim was leading, with me in second. We both took
 lines as I tried to get more flow through the corners while looking for the overtake.
 
 <figure>                                                                                                        
-  <img src="{{site.url}}/assets/images/posts/huttcross_3_2024/Second_corner.jpg" alt="Jim leading off the start"/>                  
+  <img src="../../../../assets/images/posts/huttcross_3_2024/Second_corner.jpg" alt="Jim leading off the start"/>                  
   <center><figcaption>Photo: Petrica Strainul.</figcaption></center>                   
 </figure>
 
@@ -84,7 +84,7 @@ me on the open stop bank straight. I jumped up to 800W to accelerate onto the st
 tried to hold 450W the rest of the way along the stop bank. This seemed to open the gap a bit more.
 
 <figure>
-  <img src="{{site.url}}/assets/images/posts/huttcross_3_2024/Off_the_bank_ATPhoto.jpg" alt="Turning off the stop-bank"/>            
+  <img src="../../../../assets/images/posts/huttcross_3_2024/Off_the_bank_ATPhoto.jpg" alt="Turning off the stop-bank"/>            
   <center><figcaption>Photo: <a href="https://www.atphoto.co/">ATPhoto</a>".</figcaption></center>                                                                        
 </figure> 
 

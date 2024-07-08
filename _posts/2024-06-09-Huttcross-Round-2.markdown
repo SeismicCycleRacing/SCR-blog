@@ -42,7 +42,7 @@ the time we got to the course it was a sloppy mess.
 The rain did stop and we weren't so cold and miserable in A grade, but any hope of grip was gone.
 
 <figure>
-  <img src="{{site.url}}/assets/images/posts/huttcross_2_2024/Walking_the_bike.jpg" alt="Walking the bike"/>                          
+  <img src="../../../../assets/images/posts/huttcross_2_2024/Walking_the_bike.jpg" alt="Walking the bike"/>                          
   <center><figcaption>Photo: <a href="https://www.atphoto.co/">ATPhoto</a>.</figcaption></center>                   
 </figure>
 
@@ -63,7 +63,7 @@ get back up to speed after the corners as I was wheel-spinning out of almost
 every turn. I wasn't alone though and everyone, even those on muds were struggling.
 
 <figure>                                                                                                        
-  <img src="{{site.url}}/assets/images/posts/huttcross_2_2024/Jim_last_lap_slideout.jpg" alt="Jim slideout"/>                  
+  <img src="../../../../assets/images/posts/huttcross_2_2024/Jim_last_lap_slideout.jpg" alt="Jim slideout"/>                  
   <center><figcaption>Photo: <a href="https://www.atphoto.co/">ATPhoto</a>.</figcaption></center>                   
 </figure> 
 
@@ -81,7 +81,7 @@ just because I couldn't grip. It was frustrating, but that's 'cross, especially 
 the wrong tyres!
 
 <figure>                                                                                                        
-  <img src="{{site.url}}/assets/images/posts/huttcross_2_2024/Bending_the_tape.jpg" alt="Beinding the tape"/>                  
+  <img src="../../../../assets/images/posts/huttcross_2_2024/Bending_the_tape.jpg" alt="Beinding the tape"/>                  
   <center><figcaption>Photo: <a href="https://www.atphoto.co/">ATPhoto</a>.</figcaption></center>                   
 </figure>
 
