@@ -5,7 +5,6 @@ subtitle: Wet wiggling on the Wellington Fault
 categories: Racing
 tags: [racing,cyclocross,huttcross]
 author: Calum Chamberlain
-top: 1
 sidebar: []
 banner:
   image: assets/images/posts/huttcross_2_2024/Last_lap_off_camber.jpg
@@ -42,7 +41,10 @@ going to be good for my tyres. I was glad I wasn't racing B grade in the rain, b
 the time we got to the course it was a sloppy mess.
 The rain did stop and we weren't so cold and miserable in A grade, but any hope of grip was gone.
 
-![Running was sometimes the only option](../../../../assets/images/posts/huttcross_2_2024/Walking_the_bike.jpg)
+<figure>
+  <img src="{{site.url}}/assets/images/posts/huttcross_2_2024/Walking_the_bike.jpg" alt="Walking the bike"/>                          
+  <center><figcaption>Photo: <a href="https://www.atphoto.co/">ATPhoto</a>.</figcaption></center>                   
+</figure>
 
 Nevertheless, the course was great: some fun off-camber on the Wellington Fault scarp, and a 
 good bank to try to ride up along with some nice linking sections all made for an enjoyable course.
@@ -60,7 +62,10 @@ to hold on. The lack of grip cost me both in cornering speed and in power-delive
 get back up to speed after the corners as I was wheel-spinning out of almost
 every turn. I wasn't alone though and everyone, even those on muds were struggling.
 
-![Jim slipping on the last lap](../../../../assets/images/posts/huttcross_2_2024/Jim_last_lap_slideout.jpg)
+<figure>                                                                                                        
+  <img src="{{site.url}}/assets/images/posts/huttcross_2_2024/Jim_last_lap_slideout.jpg" alt="Jim slideout"/>                  
+  <center><figcaption>Photo: <a href="https://www.atphoto.co/">ATPhoto</a>.</figcaption></center>                   
+</figure> 
 
 Ari Scott ended up in the lead with Jim following. I was just in front of Liamin third for a while until
 I made a mistake on the long off-camber section and got tangled in the tape. While I was getting
@@ -75,7 +80,10 @@ sections where I was having to run more of the off camber, and run the short cli
 just because I couldn't grip. It was frustrating, but that's 'cross, especially when you pick
 the wrong tyres!
 
-![Making the course as wide as possible](../../../../assets/images/posts/huttcross_2_2024/Bending_the_tape.jpg)
+<figure>                                                                                                        
+  <img src="{{site.url}}/assets/images/posts/huttcross_2_2024/Bending_the_tape.jpg" alt="Beinding the tape"/>                  
+  <center><figcaption>Photo: <a href="https://www.atphoto.co/">ATPhoto</a>.</figcaption></center>                   
+</figure>
 
 On the penultimate lap disaster struck the leader Ari, who had been clear for the whole race, when
 his chain came off. At that point Jim, Liam and I all came past him. He managed to get the chain back on just
@@ -88,3 +96,5 @@ had a good reminder of the fun of the off cambers in the Hutt!
 On to Round 3!
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11607816714" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+<em>Banner photo: <a href="https://www.atphoto.co/">ATPhoto</a></em>

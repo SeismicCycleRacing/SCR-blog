@@ -5,7 +5,6 @@ subtitle: A long morning out in the Wellington hills
 categories: Racing
 tags: [racing,MTB,XC]
 author: Calum Chamberlain
-top: 1
 sidebar: []
 banner:
   image: assets/images/posts/faultline_2024/240420_Faultline_Ultra_Favorites-2.jpg
@@ -41,7 +40,10 @@ so that I could get into the first descent without having a light following me c
 Because of that I started fairly hard and got a small gap up the first climb. I tried to settle
 in and not go too hard up the single track, and then was able to just enjoyed myself on the descent.
 
-![Startline](../../../../assets/images/posts/faultline_2024/startline.png)
+<figure>
+  <img src="{{site.url}}/assets/images/posts/faultline_2024/startline.png" alt="Startline"/>
+  <center><figcaption>Photo: Faultline Ultra Team.</figcaption></center>
+</figure>
 
 On the next long climb up 4-degrees I deliberately chilled out, trying to keep my heart rate below 
 160bpm, and hoping that I would get some company: 100km out on my own didn't sound like much
@@ -69,7 +71,10 @@ a bit more on the climb and pulled away from Ross a bit. I was glad to see Emily
 she did a great job of helping me get rid of my light and don my vest. Getting a mid-way kiss
 was definitely a highlight of the day!
 
-![Kiss at the feed](../../../../assets/images/posts/faultline_2024/kiss.png)
+<figure>
+    <img src="{{site.url}}/assets/images/posts/faultline_2024/kiss.png" alt="Emily"/>
+    <center><figcaption>Photo: Faultline Ultra Team.</figcaption></center>
+</figure>
 
 While I was feeding Ross passed me and got a nice gap. I wasn't particularly worried, and set
 about riding at a consistent pace again up the rest of the climb to the top of Mt Kaukau. I caught
@@ -82,7 +87,10 @@ three hours at this point. Once I realised that Ross was gone I deliberately dec
 not get carried away and just keep it consistent. Part of the point of this race for me was to
 just get a good long aerobic ride in, so I didn't feel the need to put in any attacks.
 
-![Getting going again](../../../../assets/images/posts/faultline_2024/depart.png)
+<figure>                                                                                    
+    <img src="{{site.url}}/assets/images/posts/faultline_2024/depart.png" alt="Getting going again"/>
+    <center><figcaption>Photo: Faultline Ultra Team.</figcaption></center>                  
+</figure> 
 
 We did two laps of Makara Peak, and I almost got lost part way down the first descent with some 
 confusing signage. I was grateful that the GPS track that the organisers had shared was correct
@@ -113,7 +121,10 @@ I don't think I pissed anyone off too much and rolled over the finish for first 
 organisers hadn't finished putting up the finish gantry, and the finish was pretty underwhelming.
 Thankfully Emily was there for a finish line photo and cuddle.
 
-![After the finish was completed](https://dgtzuqphqg23d.cloudfront.net/ReID8WxuAZ4bVgog_ZjnrnvlWmpgY5UIVMQW3926ccU-1536x2048.jpg)
+<figure>                                                                                    
+    <img src="https://dgtzuqphqg23d.cloudfront.net/ReID8WxuAZ4bVgog_ZjnrnvlWmpgY5UIVMQW3926ccU-1536x2048.jpg" alt="Finishline"/>
+    <center><figcaption>Photo: Emily Warren-Smith.</figcaption></center>                  
+</figure>
 
 This ended up being a pretty successful start for the Seismic Cycle Racing kit! Ross wasn't far behind
 having only lost about five minutes to me over the second 50km, so the win wasn't particularly 
@@ -121,3 +132,5 @@ comfortable, but it was nice to start off with a win.
 
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11220064283" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+*Banner photo: Faultline Ultra Team.*

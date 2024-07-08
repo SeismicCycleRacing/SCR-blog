@@ -6,5 +6,9 @@ layout: home
 title: Home
 banner: "/assets/images/banners/home.jpg"
 heading: Seismic Cycle Racing Blog
-subheading: Some words about some racing
+subheading: Some words about some racing.
 ---
+
+<p><em>Banner photo: Working Technology Photos (Don Johnson)</em></p>
+
+

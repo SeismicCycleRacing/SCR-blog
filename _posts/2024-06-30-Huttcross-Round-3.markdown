@@ -8,7 +8,7 @@ author: Calum Chamberlain
 top: 1
 sidebar: []
 banner:
-  image: https://scontent.fwlg3-1.fna.fbcdn.net/v/t39.30808-6/449332910_1257621025655188_944035301563457825_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=M7EqVVEy5F8Q7kNvgEkOTgx&_nc_ht=scontent.fwlg3-1.fna&oh=00_AYAgcnlvYYiZP5bqi6GtZ4PnBED5_UwuzNL-fo5F3pSQ0g&oe=668A2F3E
+  image: assets/images/posts/huttcross_3_2024/Barrier_hop_ATPhoto.jpg
   heading_style: "color: purple"
   subheading_style: "color: purple"
   background: "#000"
@@ -43,7 +43,10 @@ mostly dry, but with a little slime on top in some sections making for some slic
 turns. I counted more than 20 180 degree turns on the 5 minute lap which really
 limited the speed.
 
-![A windy Moonshine course through the Totara](https://scontent.fwlg3-1.fna.fbcdn.net/v/t39.30808-6/449438956_8073185362733726_5748612523585999385_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=NTLvVvuSdLEQ7kNvgHS3jLb&_nc_ht=scontent.fwlg3-1.fna&oh=00_AYABzycAiZ8RtrHBFKPfRDWDwzfEzcfRM8D6DLpRbeMDXQ&oe=668AE839)
+<figure>
+    <img src="{{site.url}}/assets/images/posts/huttcross_3_2024/Twisty_Totara_Jeff_Mein_Smith.jpg"/>
+    <center><figcaption>Photo: Jeff Mein Smith</figcaption></center>
+</figure>
 
 When I saw who had turned up for A grade this week I was a little apprehensive
 but keen to see how I would go against all these hitters. Liam (who has been getting better with every race),
@@ -63,7 +66,11 @@ From the gun Callum leaned on me and I leaned on Caleb and I managed to edge out
 of them. Into the first corner, Jim was leading, with me in second. We both took quite different
 lines as I tried to get more flow through the corners while looking for the overtake.
 
-![Jim leads Calum out of the first corner](https://scontent.fwlg3-1.fna.fbcdn.net/v/t39.30808-6/449648500_10229307923835370_2859638294005579875_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=U504wSAZvz8Q7kNvgFDPC6z&_nc_ht=scontent.fwlg3-1.fna&oh=00_AYAZyQBLtoyEocAmdgVaqPbFzEUwNBlJrfsAw08OmDHe6g&oe=668AFD06)
+<figure>                                                                                                        
+  <img src="{{site.url}}/assets/images/posts/huttcross_3_2024/Second_corner.jpg" alt="Jim leading off the start"/>                  
+  <center><figcaption>Photo: Petrica Strainul.</figcaption></center>                   
+</figure>
+
 
 After a few turns I managed to get around Jim and tried to open a gap before the twisty section
 through the Totara. There werw two shorter straighter sections before the Totara turns and I 
@@ -74,9 +81,12 @@ section as a chance to recover rather than getting frustrated.
 Out of the Totara turns section I had a small gap of a few metres to the rest of the pack and
 decided that the gap was large enough that I could kick away without taking everyone with 
 me on the open stop bank straight. I jumped up to 800W to accelerate onto the stop bank then 
-tried to hold 450W the rest of the way along the stop bank. This seemed to open the gap a bit more. 
+tried to hold 450W the rest of the way along the stop bank. This seemed to open the gap a bit more.
 
-![Turning off the stop bank](https://scontent.fwlg3-1.fna.fbcdn.net/v/t39.30808-6/449340342_1257621478988476_6557594822248952547_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BL-ELHswapgQ7kNvgHpplZm&_nc_ht=scontent.fwlg3-1.fna&oh=00_AYC6m6PlyhP0RjU3dDO8iJq5Nh_xxK-KKnRbLjKInrtDBA&oe=668AFAD5)
+<figure>
+  <img src="{{site.url}}/assets/images/posts/huttcross_3_2024/Off_the_bank_ATPhoto.jpg" alt="Turning off the stop-bank"/>            
+  <center><figcaption>Photo: <a href="https://www.atphoto.co/">ATPhoto</a>".</figcaption></center>                                                                        
+</figure> 
 
 From there I set about kicking where I could and recovering through the twisty sections
 where I didn't think I would be losing much time - in hindsight at least one of these sections
@@ -95,3 +105,5 @@ by some really good riders!
 
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11771435585" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+<em>Banner phto: <a href="https://www.atphoto.co">ATPhoto.</a></em>

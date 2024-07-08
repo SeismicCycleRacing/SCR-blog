@@ -5,7 +5,6 @@ subtitle: A dry start to the season
 categories: Racing
 tags: [racing,cyclocross,huttcross]
 author: Calum Chamberlain
-top: 1
 sidebar: []
 banner:
   image: assets/images/posts/huttcross_1_2024/240519-124242.jpg
@@ -27,7 +26,11 @@ out and back over beach gravel. There is the option of a run up some steps, and/
 the bank. This year it was dry enough to include the wooden steps. More wiggling on the grass leads 
 around to an off-camber section near the sea-scout hall and some more enforced running.
 
-![Up the bank](../../../../assets/images/posts/huttcross_1_2024/240519-124943.jpg)
+<figure>
+  <img src="{{site.url}}/assets/images/posts/huttcross_1_2024/240519-124943.jpg" alt="Up the bank"/>
+  <center><figcaption>Photo: Working Technology Photos (Don Johnson).</figcaption></center>
+</figure>
+
 
 This year was a particularly dry year, with most riders finishing with
 clean bikes. Last year at Hikoikoi I punctured on a slab of tarmac on the track down to the beach, so
@@ -58,7 +61,10 @@ large margins on the mountain bike this year and I was expecting that he would r
 field. When I realised that I was ahead of him, and staying ahead on lap 3 I was surprised, but
 confident that I could keep on doing what I was doing.
 
-![Rolling along the gravel](../../../../assets/images/posts/huttcross_1_2024/240519-123527.jpg)
+<figure>
+  <img src="{{site.url}}/assets/images/posts/huttcross_1_2024/240519-123527.jpg" alt="Rolling along the gravel"/>                          
+  <center><figcaption>Photo: Working Technology Photos (Don Johnson).</figcaption></center>                   
+</figure>
 
 For the rest of the race I tried to ride consistently: kicking out of the turns that were worth kicking out of
 and holding my speed through as many corners as I could. I still made some mistakes, and I'm sure there was more time
@@ -68,3 +74,5 @@ I came home for the win, just under 2 minutes in front of Caleb.
 That was a pretty nice start to the cross season.
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11443401123" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+*Banner photo: Working Technology (Don Johnson)*
