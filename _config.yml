@@ -55,3 +55,4 @@ night_mode: "on"
 brand_color: "#648c64ff"
 
 google_analytics: "G-KZ2NWQDJ2H"
+enableDNT: "false"
