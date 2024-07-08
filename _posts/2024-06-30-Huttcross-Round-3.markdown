@@ -24,7 +24,7 @@ I had committed to the mud tyres this time around, although the forecast
 was good for the race: the ground was now saturated. 
 
 Moonshine is a classic Huttcross venue, and one that
-I have enjoyed designing silly off-camber chicanes for back when I was
+I enjoyed designing silly off-camber chicanes for back when I was
 on the Huttcross committee. Sadly the stopbank is now less used than
 Huttcross' early days, partly because we did too much damage to the
 bank and the council were (probably rightly) afraid that we might
