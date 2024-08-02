@@ -5,7 +5,6 @@ subtitle: Medium mud at Moonshine
 categories: Racing
 tags: [racing,cyclocross,huttcross]
 author: Calum Chamberlain
-top: 1
 sidebar: []
 banner:
   image: assets/images/posts/huttcross_3_2024/Barrier_hop_ATPhoto.jpg
