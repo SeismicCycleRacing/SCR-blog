@@ -145,12 +145,13 @@ rode the descents between corners, so I did this from lap 3 to the end.
 
 After lap 2, I could see that my gap on Hisky was fairly stable, and looking at
 the lap times I was only gaining about 10s every lap on Hisky. For context, at Huttcross
-I have been quite a bit faster than Hisky, so either Hisky was riding great, or
-I was on a bad day! I decided that my lead was safe enough and that I would just try
+I have been able to open gaps of a few minutes on Hisky, so either Hisky was riding great, or
+I was on a bad day! I think Hisky was probably riding great, but I was definitely not
+that on it as well. I decided that my lead was safe enough and that I would just try
 to ride clean consistent laps from here on in. At no point was I close to my limit,
 but I don't think I had much motivation to push more. 
 
-In the end I came through to finish about 1 minute up on Hisky who took the M3 class (50+?) and
+In the end I came through to finish about 1 minute up on Hisky who took the M3 class and
 about 4 minutes up on Vaughan, who was second in my category.
 
 <figure>
