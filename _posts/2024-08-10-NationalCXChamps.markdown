@@ -17,79 +17,11 @@ banner:
   opacity: 0.6
 ---
 
-## Background
-
 This years National Cyclocross Championships race was hosted by Southern Cross CX
 in Christchurch, with the race held at the Motukarara Raceway. I took the win in
 the M30 category, which was cool, but not what I wanted. This race was always
 going to be frustrating for me, and I ended up adding a few more frustrations
-with a sub-par performance. 
-
-I feel pretty silly being unhappy with a win at the national champs, but there
-is a reason for it: I wanted to be racing the elite race. The start of this post
-is a bit of a ramble about why I couldn't race elite. To see the race report skip
-on to [race report](#race-report).
-
-There is one condition to being able to race elite at the national
-championships: you have to be a New Zealand registered rider. To be registered as an 
-NZ rider you need to be an NZ citizen. I have lived in New Zealand for 12 years
-now having moved over to do my PhD in September 2012, but I haven't yet been 
-granted citizenship. 
-
-The road to getting citizenship is fairly long and you (generally) have to go through two residency
-visas (temporary then permanent) before being eligible to apply for citizenship.
-Being a PhD student does not count towards the time requirements for this process, so the 
-clock started in 2016 when I graduated. I then went through the work-to-residency scheme which 
-took another couple of years, then had to wait to get permanent residency, before finally being 
-eligible for citizenship.
-
-I became eligible to apply for citizenship in early 2023, but I had an altercation with a car driver 
-resulting in them running me over resulting in a police investigation which further
-delayed my application until August 2023.
-Since then (12 months ago) my application has been sat in a queue and has yet to be seen.
-Hopefully I will get citizenship in time for next years champs race, but there is
-no guarantee.
-
-When I put my application in, the expected timeline for processing citizenship 
-applications was less than a year so I was hopeful that I would be able to race.
-I then set about training to target this race. Before this year I hadn't been able to train
-consistently because my research usually requires me to spend
-a couple of months in the field without a bike, and doing long days meant that
-I lost fitness and motivation. I was finally in a position to hand off field responsibilities
-to other members of my group and focus on training for a year. Don't get me wrong:
-I love my fieldwork, but I still feel like I have things I want to do racing bikes.
-
-<figure>
-    <img src="../../../../assets/images/posts/nationalcxchamps2024/20211103_144737.jpg"/>
-    <center><figcaption>
-        Fieldwork in the Southern Alps is awesome, and it is even better when I 
-        get to do it with Emily - here I got to fly in and dig a hole for Emily 
-        while deploying the SALSA array.
-    </figcaption></center>
-</figure>
-
-Over the last year I have put a lot of work in and have seen my fitness steadily
-improve (apart from one bout of sickness) and I have really enjoyed it. However, in
-April I checked in on my citizenship application and had the realisation
-that time had run out for getting my citizenship and changing nationality with the
-UCI. I was unsurprisingly pretty gutted by that: it felt like the thing I had
-been working towards had been taken away from me before I even had a chance to
-show what I could do, even though there was never any guarantee that the process would
-happen in time.
-
-After being glum for a few weeks and generally being miserable to be around (sorry Emily)
-I decided to refocus and still go to national champs and try and learn from the 
-experience: particularly I wanted to ride hard and compare myself to the elites 
-to see what more I had to do. I don't know if Emily realises quite what impact she had when
-she told me to just think of how much fitter I could be next year - little does she
-know what plans I have now! I also had the opportunity to plan to do some racing 
-around seeing family in the UK, so I changed my training to target those UK 
-races rather than national champs.
-
-So: I found myself not peaking for national champs, racing in the M30 category
-about five hours earlier than the elite race, and hoping to learn something 
-from the experience.
-
+with a sub-par performance.
 
 ## Race Report
 
@@ -244,6 +176,73 @@ bit under the weather after the week of bad sleep last week, so I might have to 
 take it easy. After that I have a bone graft scheduled to fix some damage in my 
 jaw from a bike accident 18 years ago. Hopefully I will recover from that 
 quickly and be ready to go for some racing in the UK in September!
+
+
+## Why wasn't I racing elite?
+
+I feel pretty silly being unhappy with a win at the national champs, but there
+is a reason for it: I wanted to be racing the elite race.
+
+There is one condition to being able to race elite at the national
+championships: you have to be a New Zealand registered rider. To be registered as an 
+NZ rider you need to be an NZ citizen. I have lived in New Zealand for 12 years
+now having moved over to do my PhD in September 2012, but I haven't yet been 
+granted citizenship. 
+
+The road to getting citizenship is fairly long and you (generally) have to go through two residency
+visas (temporary then permanent) before being eligible to apply for citizenship.
+Being a PhD student does not count towards the time requirements for this process, so the 
+clock started in 2016 when I graduated. I then went through the work-to-residency scheme which 
+took another couple of years, then had to wait to get permanent residency, before finally being 
+eligible for citizenship.
+
+I became eligible to apply for citizenship in early 2023, but I had an altercation with a car driver 
+resulting in them running me over resulting in a police investigation which further
+delayed my application until August 2023.
+Since then (12 months ago) my application has been sat in a queue and has yet to be seen.
+Hopefully I will get citizenship in time for next years champs race, but there is
+no guarantee.
+
+When I put my application in, the expected timeline for processing citizenship 
+applications was less than a year so I was hopeful that I would be able to race.
+I then set about training to target this race. Before this year I hadn't been able to train
+consistently because my research usually requires me to spend
+a couple of months in the field without a bike, and doing long days meant that
+I lost fitness and motivation. I was finally in a position to hand off field responsibilities
+to other members of my group and focus on training for a year. Don't get me wrong:
+I love my fieldwork, but I still feel like I have things I want to do racing bikes.
+
+<figure>
+    <img src="../../../../assets/images/posts/nationalcxchamps2024/20211103_144737.jpg"/>
+    <center><figcaption>
+        Fieldwork in the Southern Alps is awesome, and it is even better when I 
+        get to do it with Emily - here I got to fly in and dig a hole for Emily 
+        while deploying the SALSA array.
+    </figcaption></center>
+</figure>
+
+Over the last year I have put a lot of work in and have seen my fitness steadily
+improve (apart from one bout of sickness) and I have really enjoyed it. However, in
+April I checked in on my citizenship application and had the realisation
+that time had run out for getting my citizenship and changing nationality with the
+UCI. I was unsurprisingly pretty gutted by that: it felt like the thing I had
+been working towards had been taken away from me before I even had a chance to
+show what I could do, even though there was never any guarantee that the process would
+happen in time.
+
+After being glum for a few weeks and generally being miserable to be around (sorry Emily)
+I decided to refocus and still go to national champs and try and learn from the 
+experience: particularly I wanted to ride hard and compare myself to the elites 
+to see what more I had to do. I don't know if Emily realises quite what impact she had when
+she told me to just think of how much fitter I could be next year - little does she
+know what plans I have now! I also had the opportunity to plan to do some racing 
+around seeing family in the UK, so I changed my training to target those UK 
+races rather than national champs.
+
+So: I found myself not peaking for national champs, racing in the M30 category
+about five hours earlier than the elite race, and hoping to learn something 
+from the experience. I think the main thing I learnt was not to overthink
+things before the race and get better sleep!
 
 <!--
 <figure>
