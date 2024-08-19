@@ -5,7 +5,6 @@ subtitle: Clogged cleats at Ngāti Tama
 categories: Racing
 tags: [racing,cyclocross,huttcross]
 author: Calum Chamberlain
-top: 2
 sidebar: []
 banner:
   image: assets/images/posts/huttcross_4_2024/240728-123310.jpg

@@ -5,7 +5,6 @@ subtitle: Winning the wrong race
 categories: Racing
 tags: [racing,cyclocross,nz-nationals]
 author: Calum Chamberlain
-top: 1
 sidebar: []
 banner:
   image: assets/images/posts/nationalcxchamps2024/ArmsUp_Blissfield.jpg
