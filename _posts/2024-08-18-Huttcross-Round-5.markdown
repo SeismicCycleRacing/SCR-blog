@@ -17,9 +17,9 @@ banner:
   opacity: 0.6
 ---
 
-For the final round of Huttcross 2024 the weather forecast was promising
-some very wet conditions. We were back to Moonshine for a second
-time and although I committed to riding out, I knew that I wouldn't want to ride
+For the final round of the 2024 Huttcross season the weather forecast was promising
+some very wet conditions. For this round we were back to Moonshine for a second
+time. Despite the weather I committed to riding out, but I knew that I wouldn't want to ride
 home after the ensuing cold mudbath, so I was thankful that Emily offered to 
 pick me up. The ride out was a good indication of the weather to come with 
 some heavy downpours soaking me before I even got to the venue: I need to 
@@ -27,13 +27,14 @@ re-waterproof my jacket after a winter of weather and washes!
 
 The course for this round was quite different to the previous Moonshine course and
 the organisers had done a great job at mixing things up despite the need to
-reuse a venue. This time around the course had some long drags on the grass
+reuse a venue. For this course there were some long drags on the grass
 that ended up being a proper slog in the wet conditions. We also dropped down to
-the river at the south end of the course, but thankfully we weren't using the
+the riverbed at the south end of the course, but thankfully we weren't using the
 long run along the river gravels that has ruined bikes and shoes in the past.
-In general the course wasn't very technical, and especially at the speeds that we
-were able to achieve in the rain. With those low speeds the corners were all 
-straightforward and the lap was long for a Huttcross lap.
+In general the course wasn't very technical, and that lack of technicality was
+enhanced by the slow speeds that we were able to achieve in the rain. 
+With those low speeds the corners were all straightforward and the lap was pretty 
+long for a Huttcross lap.
 
 <figure>
     <img src="../../../../assets/images/posts/Huttcross_5_2024/Wiggles_Don_Johnson.jpg"/>
@@ -44,8 +45,8 @@ straightforward and the lap was long for a Huttcross lap.
 
 I forced myself out for a warm up just as another band of torrential rain came through.
 Thankfully the rain wasn't that cold, but I still chose to wear my fleecy
-3/4 length tights and arm warmers which did help keep some warmth while soaking
-wet. A good sized field despite the rain lined up for A grade, with some fun 
+3/4 length tights and arm warmers which helped to keep some warmth while soaking
+wet. A good sized field lined up for A grade, with some fun 
 fancy dress being worn by some (I failed at getting my fancy dress ready 
 which is probably a good thing given that last time it involved face paint 
 which is not well suited to rain).
@@ -58,13 +59,13 @@ early corners including just hopping off and running around people to get up to
 second. We were then onto the long drag south where I just dug in and rode hard.
 
 Coming into the race I wasn't feeling good again. I still hadn't gotten on top
-of sleep and wasn't feeling very motivated. I was glad though that my heart rate
-was back to behaving normally, and once I got going the body responded well.
-As I pushed on on the long drag south I was getting good power out and getting
-my heart rate up to the high 170s. Getting traction was a constant battle, so
-I spent a lot of time sat right on the back of my saddle trying to keep as much
-weight on the rear tyre as possible while letting the front do what it wanted 
-through the slop.
+of sleep and wasn't feeling very motivated. In spite of those sensations, 
+I was glad that my heart rate was back to behaving normally, and once I got 
+going the body and mind responded well. As I pushed on on the long drag 
+south I was getting good power out and getting my heart rate up to the high 170s.
+Getting traction was a constant battle, so I spent a lot of time sat right on 
+the back of my saddle trying to keep as much weight on the rear tyre as possible 
+while letting the front do what it wanted through the slop.
 
 <figure>
     <img src="../../../../assets/images/posts/Huttcross_5_2024/Driving_Don_Johnson.jpg"/>
@@ -74,8 +75,8 @@ through the slop.
 </figure>
 
 I got a good gap on that first drag south and decided to just keep pushing on.
-I was still frustrated after my poor showing at nationals the week before and
-wanted to try and make my body work now that it was back to being responsive.
+I was still frustrated after my body didn't really show up at nationals the week before and
+wanted to try and work now that it was back to being responsive.
 For the rest of the lap I continued to try and work hard and ride smooth, not 
 that riding smooth was really that possible in those conditions, and the only
 way to keep moving forwards was to ride hard. I quite like these conditions,
@@ -84,22 +85,31 @@ don't think it would have been any easier to go slower through that slop, so
 I just went as fast as I could.
 
 The rest of the race went by much the same, although the southerly picked up 
-around lap 3 which dropped the speeds a bit. Combined with fatigue and continued
-deterioration of the course, my later lap times slowed a bit. I was partly
+around lap 3 which dropped the speeds a bit. Combined with fatigue and the continued
+deterioration of the course, my later lap times slowed a bit. I was somewhat
 glad that the organisers stopped the race after 5 laps, although that did mean
 my race was only 45 minutes long. It made sense to get people off a little
 early given the conditions, and with a lap taking close to 12 minutes for some
-people, the people that I hadn't quite lapped ended up closer to an hour.
+people, the people that I hadn't quite lapped ended up closer to an hour, and would have
+been quite a long way over had we done another lap.
+
+All in all, it was another good race. It was nice to come away with another win by a good
+margin, and great to get a mudbath race in this season. My bike is not grateful for it
+and is in dire need of a new BB and headset, as well as new brake pads (again). I'm so
+grateful to the Huttcross team for continuing to put this series on.
 
 And just like that, the CX season in NZ is over for me for another year. This was
 definitely my best CX season yet, and I have been doing it a while now (see video
 below for a bit of 2011 Moonshine). I'm now looking forward to two UCI CX races
 in the UK in September and a Gravel World Series race the week after before
 a week completely off the bike. I'll then be back to NZ and back to some less
-structured training leading up to the Whaka 100 and Edition Zero Gravel.
+structured training leading up to the Whaka 100 and Edition Zero Gravel. Right now
+I'm recovering from a bone graft in my jaw to repair some damage around an implant from
+a bike accident 18 years ago.
 
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12175128888" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYkxrgN0L0A?si=-B3HdF5i3-tMfOKO" title="Ricoh Riott Cyclocross" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
