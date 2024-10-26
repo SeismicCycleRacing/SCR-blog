@@ -5,7 +5,6 @@ subtitle: Wet wet wet
 categories: Racing
 tags: [racing,cyclocross,huttcross]
 author: Calum Chamberlain
-top: 1
 sidebar: []
 banner:
   image: assets/images/posts/Huttcross_5_2024/Splash_Don_Johnson.jpg

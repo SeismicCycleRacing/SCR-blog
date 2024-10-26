@@ -5,7 +5,6 @@ subtitle: Improving
 categories: Racing
 tags: [racing,cyclocross,supercross,uci]
 author: Calum Chamberlain
-top: 1
 sidebar: []
 banner:
   image: assets/images/posts/Supercross_2/inversion_lakes.jpg
